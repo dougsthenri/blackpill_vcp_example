@@ -1,3 +1,3 @@
-Exemplo de implementação de uma porta serial virtual (VCP) com a placa Black Pill (STM32F401CEU6):
-A mensagem "Hello" é enviada a cada 1 segundo pelo microntrolador.
-Enviar o caracter "1" para o microcontrolador liga o LED embarcado da placa e enviar "0" o desliga.
+Example of implementing a virtual COM port (VCP) with the Black Pill board (STM32F401CEU6):  
+The message "Hello" is sent every 1 second by the microcontroller.  
+Sending the character "1" to the microcontroller turns on the board's built-in LED, and sending "0" turns it off.
